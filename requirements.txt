@@ -1,5 +1,6 @@
 pinecone-client
 langchain
+langchain_community
 python-dotenv
 fastapi
 uvicorn
