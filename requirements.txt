@@ -1,0 +1,8 @@
+pinecone-client
+langchain
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+tiktoken
