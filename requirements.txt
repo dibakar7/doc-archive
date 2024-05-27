@@ -7,3 +7,4 @@ uvicorn
 python-multipart
 pdfplumber
 tiktoken
+sentence_transformers
